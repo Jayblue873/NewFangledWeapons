@@ -1,0 +1,5 @@
+displayName = New Fangled Weapons
+author = Jayblue
+includeSource = true
+includePDB = true
+version = 1.0.2
